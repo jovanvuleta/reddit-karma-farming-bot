@@ -1,0 +1,3 @@
+praw
+slack_sdk
+apscheduler

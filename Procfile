@@ -1,0 +1,1 @@
+worker python3 karma_farm.py
