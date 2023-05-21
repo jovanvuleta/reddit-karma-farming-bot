@@ -26,7 +26,7 @@ This project focuses on developing a Reddit karma farming bot that automates the
 ## Usage
 
 1. Run the bot script by executing the following command:
-  `python3 karma_farm.py`
+  `python3 karma_farm.py bot_name_here`
 2. The bot will start interacting with Reddit, generating comments, and upvoting posts based on the configured settings.
 3. Monitor the bot's activity and adjust the settings as needed to optimize karma farming.
 
